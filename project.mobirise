@@ -34,7 +34,7 @@
         "#b2010b"
       ]
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/tekening1-1.jpg",
     "noImageResize": "true",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "google-analytics": ""
